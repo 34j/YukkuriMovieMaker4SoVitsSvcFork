@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "YukkuriMovieMaker4SoVitsSvcFork": {
+      "commandName": "Project",
+      "commandLineArgs": "YukkuriMovieMaker_v4_Lite/YukkuriMovieMaker.exe"
+    }
+  }
+}
